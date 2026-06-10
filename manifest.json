@@ -1,0 +1,10 @@
+{
+  "name": "Saiyan Arena",
+  "short_name": "Saiyan Arena",
+  "description": "Jogo de luta pixel - lute, transforme e vença!",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#05060d",
+  "theme_color": "#05060d"
+}
