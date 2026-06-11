@@ -1,41 +1,36 @@
-# Saiyan Arena — Jogo de Luta Pixel (v1)
+# Saiyan Arena — Jogo de Luta Pixel (v2)
 
-Jogo de luta 2D estilo pixel, leve e feito num arquivo só (`index.html`). Roda no
-celular e no PC, no navegador. (Você pode renomear o jogo depois.)
+Jogo de luta 2D estilo pixel, num arquivo só (`index.html`). Roda no celular e no PC.
+(Você pode renomear o jogo depois.)
 
-> ⚠️ Uso pessoal / entre amigos. É um fan game inspirado — não use os nomes/arte
-> oficiais pra vender ou publicar em loja.
+> ⚠️ Uso pessoal / entre amigos. Fan game inspirado — não use nomes/arte oficiais pra vender.
 
-## ▶️ Jogar agora
-Duplo clique em **`ABRIR-JOGO.bat`** (ou no `index.html`). Vire o celular na horizontal.
+## ▶️ Jogar
+Duplo clique em **`ABRIR-JOGO.bat`**. Vire o celular na horizontal.
 
 ## 🎮 Controles
-- ◀ ▶ andar · ▲ pular/voar (2 pulos)
-- 👊 soco · ⚡ rajada de ki · 💥 especial (Kamehameha / Final Flash) · ★ transformar
-- Defesa: segure pra trás (lado contrário ao oponente), parado
-- O ki recarrega sozinho (mais rápido parado)
-- **Teclado:** P1 = A/D/W, F, G, H, T · P2 = setas, 1, 2, 3, 4
+- ◀▶ andar (toque 2x = **dash**) · ▲ pular/voar (2x)
+- 👊 soco (combo) · ⚡ rajada de ki · 💥 especial (carrega e dispara) · ★ transformar
+- 🔋 segure pra **carregar ki** (encher pra transformar)
+- Defesa: segure pra trás · ⏸ pausa
+- Teclado: P1 `A D W` · `S`(carga) · `F G H T` | P2 `setas` · `↓` · `1 2 3 4`
 
-## Modos (v1)
-- **1 Jogador (vs CPU)**
-- **2 Jogadores** no mesmo celular
-- **Campo de Treino** — treina e ganha "Power Level" (deixa você um pouco mais forte, com limite pra ser justo)
+## ✨ Novidades da v2
+- **6 personagens**: Goku, Vegeta, Gohan, Goku Black, Broly, Freeza (cada um com transformações próprias)
+- **5 cenários** (deserto, cidade, espaço, arena, praia) — sorteados a cada luta
+- **SOM**: efeitos de soco, ki, transformação, K.O. + música (botão liga/desliga)
+- **Melhor de 3 rounds** com locutor (ROUND / LUTAR / K.O.) e marcadores
+- **Contador de combo**, **dash**, **impacto travado** (hit-stop), aura/efeitos melhores
+- **Modos**: Versus (CPU), 2 Jogadores, **Torneio do Poder** (vença vários), **Sobrevivência** (infinito), **Treino**
+- **Dificuldade**: Fácil / Normal / Difícil
+- **Pausa** e seleção de personagem com prévia
 
-Personagens: **Goku** e **Vegeta**, com transformações (Base → SSJ → Blue → Ultra/Ego)
-que mudam visual, velocidade e dano.
+## 📱 Virar APK
+Suba a pasta no GitHub (Pages) → cole o link no **PWABuilder.com** → baixe o APK.
+Ou mande o link direto pros amigos.
 
-## 📱 Virar APK pra mandar pros amigos
-1. Suba a pasta no GitHub e ative o Pages (vira um link).
-2. Entre no **PWABuilder.com**, cole o link do seu jogo.
-3. Ele gera o **APK** (e os ícones) pra você baixar e mandar no WhatsApp.
-   - Alternativa: mandar só o **link** — o amigo abre e joga, ou usa "Adicionar à tela inicial".
-
-## 🗺️ Próximas fases (o que falta do seu pedido)
-- [ ] Mais personagens (e secundários)
-- [ ] Modo História
-- [ ] Torneio do Poder
-- [ ] Mais cenários
-- [ ] Multiplayer online (a parte mais difícil — fica por último)
-- [ ] Sprites mais caprichados / animações
-
-Me diz o que achou e por qual fase seguimos!
+## 🗺️ Próximas ideias
+- [ ] Modo História com diálogos
+- [ ] Mais personagens e transformações
+- [ ] Multiplayer online (a parte mais difícil)
+- [ ] Sprites desenhados à mão (se você fornecer os arquivos)
